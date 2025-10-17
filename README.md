@@ -204,8 +204,6 @@ VNPAY_HASH_SECRET=your_vnpay_secret
 - 📅 Predictive health analytics
 
 ## 🤝 Contributing
-
 We welcome contributions from the community! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on how to get started.
 ---
-
 **DiaMonitor** - Transforming healthcare through digital innovation 🏥✨

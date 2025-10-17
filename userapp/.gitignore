@@ -1,3 +1,8 @@
+# User App specific ignores
+# This file inherits from parent .gitignore
+# Add userapp-specific ignore rules here if needed
 
-# FVM Version Cache
-.fvm/
+# Example: User-specific config files
+# user_config.json
+# user_private_keys/
+# payment_keys/

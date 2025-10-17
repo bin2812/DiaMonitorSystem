@@ -5,6 +5,11 @@
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
+<p align="center">
+  <img src="https://github.com/bin2812/Medicare-Diamonitor/blob/master/demo-bac-si.gif?raw=true" width="300px" />
+  <img src="https://github.com/bin2812/Medicare-Diamonitor/blob/master/demo-benh-nhan.gif?raw=true" width="300px" />
+</p>
+
 ## 📱 Product Overview
 
 DiaMonitor is a comprehensive digital clinic management system designed to revolutionize healthcare administration and patient experience. The platform seamlessly connects patients, doctors, medical staff, and administrators within a unified digital ecosystem, streamlining clinic operations from appointment scheduling to financial management.
